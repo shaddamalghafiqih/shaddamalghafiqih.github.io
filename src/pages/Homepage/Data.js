@@ -1,3 +1,5 @@
+import img1 from '../../images/code-review.svg';
+
 export const homeObjOne = {
   primary: true,
   lightBg: false,
@@ -10,7 +12,7 @@ export const homeObjOne = {
     'I Create a interface website using HTML, CSS, Javascript, React JS, Styled Component. ',
   buttonLabel: 'Get Started',
   imgStart: '',
-  img: require('../../images/code-review.svg'),
+  img: img1,
   alt: 'Credit Card',
   start: ''
 };
